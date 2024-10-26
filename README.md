@@ -13,10 +13,6 @@ The Slot Machine Game simulates the excitement of a classic slot machine, where 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
